@@ -40,3 +40,6 @@ while (true) {
         alert("Resposta inválida. Por favor, responda 'Sim' ou 'Não'.");
     }
 }
+
+// provavelmente usar o splice - após mostrar a lista para pessoa perguntar se ela quer remover algum item/elemento da lista/array
+// e dai terminar com um "Muito bem! Agora vá as compras!"
